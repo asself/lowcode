@@ -1,0 +1,7 @@
+{
+  "name": "low-code-nestjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd .. && pnpm start:devops"
+  }
+}
